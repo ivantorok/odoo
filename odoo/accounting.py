@@ -1,8 +1,7 @@
 def create_invoice():
-    """
-    Create a new invoice in the accounting module.
-    """
-    pass
+    # Placeholder implementation of the create_invoice function
+    invoice_number = "INV-001"
+    return invoice_number
 
 def record_payment(invoice):
     """
